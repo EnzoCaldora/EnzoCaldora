@@ -1,5 +1,6 @@
-### Hi there 👋
-![EnzoC_GH](https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8051fce0-520d-4406-9b18-ead2e312ae3f)
+
+![EnzoC_Gh (2)](https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/49d831c8-f7f5-4523-9116-1937440b3034)
+
 
 <!--
 
