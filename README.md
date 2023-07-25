@@ -1,6 +1,6 @@
 <h1>👨🏻‍💻 Caldora Enzo | 💻 Front-End developper | 🔵⚪🔴 France</h1>
 
-<div align=”center”>https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/49d831c8-f7f5-4523-9116-1937440b3034</div>
+![EnzoC_Gh (2)](https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/79049c71-7bed-4b67-b6e9-bfb05fa4fde2)
 
 
 
