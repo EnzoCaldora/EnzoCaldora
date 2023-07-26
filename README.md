@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://zupimages.net/up/23/30/m4pe.gif" alt="gif"/>
 </p>
-<p align="space-between">
+<p align="center">
   <img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
 <img src ="https://zupimages.net/up/23/30/vik5.png" alt"email"/>
 <img src ="https://zupimages.net/up/23/30/2ntq.png" alt"Twitter"/>
