@@ -1,4 +1,4 @@
-<h1>👨🏻‍💻 Caldora Enzo | 💻 Front-End developper | ✨Marseille</h1>
+<h1 align="center">👨🏻‍💻 Caldora Enzo | 💻 Front-End developper | ✨Marseille</h1>
 
 <p align="center">
 <img src="https://zupimages.net/up/23/30/m4pe.gif" alt="gif"/>
