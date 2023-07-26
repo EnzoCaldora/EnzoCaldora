@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://zupimages.net/up/23/30/m4pe.gif" alt="gif"/>
 </p>
-<img src ="https://zupimages.net/up/23/30/kv6f.png" alt"Linkedin"/>
+<img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
 
 
 
