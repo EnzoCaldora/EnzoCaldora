@@ -4,10 +4,18 @@
 <img src="https://zupimages.net/up/23/30/m4pe.gif" alt="gif"/>
 </p>
 <p align="center">
-<img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
-<img src ="https://zupimages.net/up/23/30/vik5.png" alt"email"/>
-<img src ="https://zupimages.net/up/23/30/2ntq.png" alt"Twitter"/>
-<img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
+<a href="https://www.linkedin.com/in/enzo-caldora/" target="_blank">
+  <img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
+</a>
+<a href="mailto:ecaldora@gmail.com" target="_blank">
+  <img src ="https://zupimages.net/up/23/30/vik5.png" alt"email"/>
+</a>
+<a href="https://twitter.com/caldora_enzo" target="_blank">
+  <img src ="https://zupimages.net/up/23/30/2ntq.png" alt"Twitter"/>
+</a>
+<a href="https://open.spotify.com/user/1133107738?si=9866991b68c64e8a" target="_blank">
+  <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
+</a>
 </p>
 
 
