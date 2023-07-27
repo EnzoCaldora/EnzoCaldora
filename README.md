@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="![EnzoC_Gh (2)](https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/15156afa-0c40-4241-a4bd-6c1516bc62ef)" alt="gif"/>
+<img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/15156afa-0c40-4241-a4bd-6c1516bc62ef" alt="gif"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/enzo-caldora/" target="_blank">
