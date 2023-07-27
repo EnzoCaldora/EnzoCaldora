@@ -8,7 +8,7 @@
   <img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
 </a>
 <a href="mailto:ecaldora@gmail.com" target="_blank">
-  <img src ="https://zupimages.net/up/23/30/9tiw.png" alt"email"/>
+  <img src ="https://zupimages.net/up/23/30/49et.png" alt"email"/>
 </a>
 <a href="https://twitter.com/caldora_enzo" target="_blank">
   <img src ="https://zupimages.net/up/23/30/2ntq.png" alt"Twitter"/>
