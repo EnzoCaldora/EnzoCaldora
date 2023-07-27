@@ -20,9 +20,9 @@
 
 ---
 
-:fire: My stats 
+<h2 align="center">:fire: My stats </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=vue-dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 
