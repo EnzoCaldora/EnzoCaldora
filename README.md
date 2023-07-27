@@ -22,9 +22,9 @@
 
 <h2 align="center">:fire: My stats </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EnzoCaldora&show_icons=true&theme=gotham" alt="EnzoCaldora Stats"/><br/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=gotham" alt="EnzoCaldora Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCaldora&layout=compact&theme=gotham" alt="EnzoCaldora Stats/>
+<img src="https://github-readme-stats.vercel.app/api?username=EnzoCaldora&show_icons=true&theme=gotham" alt="EnzoCaldora Stats"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=gotham" alt="EnzoCaldora Stats"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCaldora&layout=compact&theme=gotham" alt="EnzoCaldora Stats"/>
 </p>
 <!--
 
