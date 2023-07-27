@@ -20,6 +20,21 @@
 
 ---
 
+<h2>📊 this week I spent my time on:</h2>
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   2 hrs 12 mins   ████████████████▓░░░░░░░░   66.17 %
+JavaScript   52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 <h2 align="center">:fire: My stats </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoCaldora&show_icons=true&theme=gotham" alt="EnzoCaldora Stats"/>
