@@ -22,7 +22,7 @@
 
 <h2 align="center">:fire: My stats </h2>
 <p align="center">
-<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=vue-dark)](https://git.io/streak-stats)"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=vue-dark"/>
 </p>
 <!--
 
