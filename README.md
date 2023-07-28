@@ -21,6 +21,11 @@
   <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
 </a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Follow%20me-%E2%99%A5?style=plastic&logo=github&logoColor=black&color=%230AC3A7
+"/>
+
 </p>
 
 
