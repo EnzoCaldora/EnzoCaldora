@@ -25,9 +25,10 @@
 Stacks that I used to play with
 
 <p>
-<code><img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7"</img></code>
+<code><img height="20" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7"</img></code>
 
 </p>
+
 ---
 
 <h2 align="center">🎶 What I am vibing to</h2>
