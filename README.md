@@ -1,4 +1,4 @@
-<h1 align="center"><img src="![man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb](https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/3c91413c-1bd3-45ff-bcc7-941bad091bd8)"/> Caldora Enzo | 💻 Front-End developper | ✨Marseille</h1>
+<h1 align="center"><img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/3c91413c-1bd3-45ff-bcc7-941bad091bd8"/> Caldora Enzo | 💻 Front-End developper | ✨Marseille</h1>
 
 
 
