@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">🎶 What am I currently vibing to</h2>
+<h2 align="center">🎶 What am I vibing to</h2>
 <p align="center">
 <a href="https://open.spotify.com/user/1133107738?si=ca7cd37041d249c2">
   <img src="https://spotify-api-enzoc.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
