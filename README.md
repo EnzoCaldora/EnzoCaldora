@@ -25,11 +25,12 @@
 <h2 align="center">Stacks that I used to play with</h2>
 
 
-https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6
+https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd
+
 
 
 <p align="center">
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cdac8785-c1cc-48ed-93e4-2f9c2fb944bc"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8ff6c4b8-7c62-4dfa-9c59-febaa6c6c5f7"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131"</img></code>
