@@ -22,10 +22,10 @@
 
 ---
 
-Stacks that I used to play with
+<h2 align="center">Stacks that I used to play with</h2>
 
-<p>
-<code><img height="20" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7"</img></code>
+<p align="center">
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7"</img></code>
 
 </p>
 
