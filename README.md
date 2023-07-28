@@ -18,7 +18,12 @@
   <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
 </a>
 </p>
+---
 
+<h2>What I am currently listening</h2>
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="spotify-api-one-ashen.vercel.app/api" alt="Current Spotify Song">
+</a>
 
 ---
 
