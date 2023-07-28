@@ -22,10 +22,11 @@
 ---
 
 <h2 align="center">🎶 What am I vibing to</h2>
+<p align="center">
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-api-enzoc.vercel.app/api?theme=gotham&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://spotify-api-enzoc.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
-
+</p>
 ---
 
 <h2 align="center">:fire: My stats </h2>
