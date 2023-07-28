@@ -7,6 +7,7 @@
 </p
   
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/enzo-caldora/" target="_blank">
   <img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
 </a>
@@ -19,7 +20,6 @@
 <a href="https://open.spotify.com/user/1133107738?si=9866991b68c64e8a" target="_blank">
   <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
 </a>
-
 
 </p>
 
