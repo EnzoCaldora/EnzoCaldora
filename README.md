@@ -22,7 +22,7 @@
 </a>
 
   <br/>
-  https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social-#0AC3A7(https://github.com/EnzoCaldora)
+<img src="https://img.shields.io/badge/follow%20me%20?logo=file%3A%2F%2F%2FC%3A%2FUsers%2FEnzo%2FDownloads%2Ficons8-github-30.png&color=%230AC3A7"/>
 </p>
 
 
