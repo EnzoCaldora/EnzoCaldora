@@ -23,7 +23,7 @@
 
 <h2>What I am currently listening</h2>
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-api-enzocaldora.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-api-enzoc.vercel.app/api" alt="Current Spotify Song">
 </a>
 
 ---
