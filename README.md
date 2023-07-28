@@ -22,17 +22,6 @@
 
 ---
 
-<h2 align="center"> <img height="25" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7dfc750e-9545-4869-8322-0b1d38dc3ca2"/> Stacks that I used to play with</h2>
-
-<p align="center">
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131"</img></code>
-</p>
-
----
 
 <h2 align="center">🎶 What I am vibing to</h2>
 <p align="center">
@@ -40,6 +29,34 @@
   <img src="https://spotify-api-enzoc.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 </p>
+
+---
+
+<h2 align="center">💻 My stacks</h2>
+
+<h3 align="center"> 🕹️ Stacks that I used to play with</h3>
+
+<p align="center">
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/eac3984e-8638-4342-b497-6146cbd77c78"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/b6941aed-0e65-4ddc-9f17-ae33a96bb80a"</img></code>
+
+</p>
+
+<h3 align="center">📚 Next stacks that I would like to learn</h3>
+
+
+<p align="center">
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/40fd0064-a7c5-433c-9b31-69341f1b33d8"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/4816be3b-e16a-4555-b14d-d22daff863df"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7107389e-8930-4354-90ad-1d6368592d24"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8a6f4d11-b1ec-45c9-97da-0d12d7ae7e2a"</img></code>
+</p>
+
 
 ---
 
