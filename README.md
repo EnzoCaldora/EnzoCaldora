@@ -21,7 +21,7 @@
 </a>
 </p>
 
-<img src="https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social)](https://github.com/EnzoCaldora)"
+<img src="https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social)](https://github.com/EnzoCaldora)"/>
 
 ---
 
