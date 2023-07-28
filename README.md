@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/3c91413c-1bd3-45ff-bcc7-941bad091bd8"/> Caldora Enzo | 💻 Front-End developper | ✨Marseille</h1>
+<h1 align="center">👨🏻‍💻 Caldora Enzo | 💻 Front-End developper | ✨Marseille</h1>
 
 
 
