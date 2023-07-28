@@ -47,7 +47,7 @@
 
 </p>
 
----
+<br/>
 
 <h3 align="center">📚 Next stacks that I would like to learn</h3>
 
