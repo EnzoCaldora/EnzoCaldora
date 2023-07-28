@@ -22,7 +22,7 @@
 </a>
 
   <br/>
-  <img src="https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social)](https://github.com/EnzoCaldora)"/>
+  [![Github Follow](https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social-#0AC3A7)](https://github.com/EnzoCaldora)
 </p>
 
 
