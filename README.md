@@ -4,7 +4,8 @@
 
 <p align="center">
 <img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/15156afa-0c40-4241-a4bd-6c1516bc62ef" alt="gif"/>
-</p>
+</p
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/enzo-caldora/" target="_blank">
   <img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
@@ -20,6 +21,8 @@
 </a>
 </p>
 
+<img src="https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social)](https://github.com/EnzoCaldora)"
+
 ---
 
 
@@ -34,16 +37,16 @@
 
 <h2 align="center">💻 My stacks</h2>
 
-<h3 align="center" > <u>🕹️ Stacks that I used to play with</u></h3>
+<h3 align="center" > 🕹️ Stacks that I used to play with</h3>
 
 <p align="center">
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/eac3984e-8638-4342-b497-6146cbd77c78"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/b6941aed-0e65-4ddc-9f17-ae33a96bb80a"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd" alt="JavaScript logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6" alt="React logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870" alt="node.js logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78" alt="express.js logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131" alt="postgreSQL logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/eac3984e-8638-4342-b497-6146cbd77c78" alt="Embbeded JavaScript logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/b6941aed-0e65-4ddc-9f17-ae33a96bb80a alt="git logo"</img></code>
 
 </p>
 
@@ -53,10 +56,10 @@
 
 
 <p align="center">
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/40fd0064-a7c5-433c-9b31-69341f1b33d8"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/4816be3b-e16a-4555-b14d-d22daff863df"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7107389e-8930-4354-90ad-1d6368592d24"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8a6f4d11-b1ec-45c9-97da-0d12d7ae7e2a"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/40fd0064-a7c5-433c-9b31-69341f1b33d8" alt="Vue.js logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/4816be3b-e16a-4555-b14d-d22daff863df" alt="Tailwind CSS logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7107389e-8930-4354-90ad-1d6368592d24" alt="SASS logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8a6f4d11-b1ec-45c9-97da-0d12d7ae7e2a" alt="TypeScript"</img></code>
 </p>
 
 
