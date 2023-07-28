@@ -22,7 +22,7 @@
 </a>
 
   <br/>
-<img src="https://img.shields.io/badge/follow%20me%20?logo=file%3A%2F%2F%2FC%3A%2FUsers%2FEnzo%2FDownloads%2Ficons8-github-30.png&color=%230AC3A7"/>
+<img src="https://img.shields.io/badge/follow%20me%20?logo=https%3A%2F%2Fzupimages.net%2Fup%2F23%2F30%2F1kms.png&color=%230AC3A7"/>
 </p>
 
 
