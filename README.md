@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/15156afa-0c40-4241-a4bd-6c1516bc62ef" alt="gif"/>
-</p
+</p>
   
 <p align="center">
   
@@ -21,6 +21,8 @@
   <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
 </a>
 
+  <br/>
+  <img src="https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social)](https://github.com/EnzoCaldora)"/>
 </p>
 
 
