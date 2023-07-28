@@ -34,7 +34,7 @@
 
 <h2 align="center">💻 My stacks</h2>
 
-<h3 align="center"> 🕹️ Stacks that I used to play with</h3>
+<h3 align="center" text-decoration="underline"> 🕹️ Stacks that I used to play with</h3>
 
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
