@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoCaldora&show_icons=true&theme=gotham" alt="EnzoCaldora Stats"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=EnzoCaldora&theme=gotham" alt="EnzoCaldora Stats"/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCaldora&layout=compact&theme=gotham" alt="EnzoCaldora Stats"/><br/>
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+Note: "Most used languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <!--
 
