@@ -19,8 +19,7 @@
 <a href="https://open.spotify.com/user/1133107738?si=9866991b68c64e8a" target="_blank">
   <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
 </a>
-  <br/>
-  <img src="https://img.shields.io/github/followers/EnzoCaldora?label=Follow%20Me&style=social)](https://github.com/EnzoCaldora)"/>
+
 
 </p>
 
