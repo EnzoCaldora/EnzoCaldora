@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center"> <img height="30" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7dfc750e-9545-4869-8322-0b1d38dc3ca2"/> Stacks that I used to play with</h2>
+<h2 align="center"> <img height="25" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7dfc750e-9545-4869-8322-0b1d38dc3ca2"/> Stacks that I used to play with</h2>
 
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
