@@ -24,14 +24,12 @@
 
 <h2 align="center"><img src"https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7dfc750e-9545-4869-8322-0b1d38dc3ca2"/>Stacks that I used to play with</h2>
 
-
-
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a841f1bf-550f-443b-80be-28f4842b3eae"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131"</img></code>
 </p>
 
 ---
