@@ -23,8 +23,8 @@
 ---
 
 Stacks that I used to play with
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-![icons8-javascript-48](https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7)
+
+<code><img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/21d85ede-1ece-49d9-b2b8-d6ecf26bd1e7"</img></code>
 
 
 ---
