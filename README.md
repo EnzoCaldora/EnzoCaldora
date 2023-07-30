@@ -68,6 +68,8 @@
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/4816be3b-e16a-4555-b14d-d22daff863df" alt="Tailwind CSS logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7107389e-8930-4354-90ad-1d6368592d24" alt="SASS logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8a6f4d11-b1ec-45c9-97da-0d12d7ae7e2a" alt="TypeScript"</img></code>
+<code><img height="40" src="https://zupimages.net/up/23/30/fl4i.png" alt="TypeScript"</img></code>
+  
 </p>
 
 
