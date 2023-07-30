@@ -45,7 +45,7 @@
 
 <h2 align="center">🧰 My toolbox</h2>
 
-<h3 align="center" > <ins>🕹️ tech that I used to play with</ins></h3>
+<h3 align="center" > 🕹️ <ins>Tech that I used to play with</ins></h3>
 
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd" alt="JavaScript logo"</img></code>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="center"><ins>📚 Next tech that I would like to learn</ins></h3>
+<h3 align="center">📚 <ins>Next tech that I would like to learn</ins></h3>
 
 
 <p align="center">
