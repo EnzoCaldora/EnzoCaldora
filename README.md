@@ -45,7 +45,7 @@
 
 <h2 align="center">💻 My stacks</h2>
 
-<h3 align="center" > 🕹️ Stacks that I used to play with</h3>
+<h3 align="center" > <ins>🕹️ Stacks that I used to play with</ins></h3>
 
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd" alt="JavaScript logo"</img></code>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="center"><u>📚 Next stacks that I would like to learn</u></h3>
+<h3 align="center"><ins>📚 Next stacks that I would like to learn</ins></h3>
 
 
 <p align="center">
@@ -76,11 +76,15 @@
 <h2 align="center"> 🤖 About me</h2>
 
 <p align="center">
-  <ins>Who am I ?</ins> --> My name is Enzo, Im 29 and Im a front-end developer from Marseille(South of France)
+  <ins>👨🏻‍💻 Who am I ?</ins> --> My name is Enzo, Im 29, and Im a front-end developer from Marseille (South of France). <br/>
+  <ins>❤️‍🔥 What I love in code ?</ins> --> The things that I prefer with code are animations, transitions, and everything that makes the user experience awesome.<br/>
+  <ins>🔭 What I dream of for my future as a dev</ins> --> One of my dreams as a dev is to create sites that would be rewarded with awwwards !<br/>
+  <ins>🌱 What I currently work on</ins> --> I currently work on learning SCSS.
   
 
 
 </p>
+
 ---
 
 <h2 align="center">:fire: My stats </h2>
