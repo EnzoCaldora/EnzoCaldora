@@ -47,7 +47,7 @@
 
 <h3 align="center" > <ins>🕹️ Stacks that I used to play with</ins></h3>
 
-<p align="center">
+<p>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd" alt="JavaScript logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6" alt="React logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870" alt="node.js logo"</img></code>
