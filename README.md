@@ -80,10 +80,9 @@
  ❤️‍🔥 <ins>What I love in code ?</ins> --> The things that I prefer with code are animations, transitions, and everything that makes the user experience awesome.<br/><br/>
  🔭 <ins>What I dream of for my future as a dev</ins> --> One of my dreams as a dev is to create sites that would be rewarded with awwwards !<br/><br/>
  🌱 <ins>What I currently work on</ins> --> I currently work on learning SCSS.<br/><br/>
- 🪪 <ins>Find me</ins> --> <iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; padding: 0; margin: 0; overflow: hidden;"
-      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFqHrY_XE4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-    </iframe>
+ 🪪 <ins>Find me</ins> --> <img height="120" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8920822a-02f6-4788-a5c4-ce06440349b1"/>
   
+
 
 
 </p>
