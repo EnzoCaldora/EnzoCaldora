@@ -24,7 +24,8 @@
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Follow%20me-%E2%99%A5?style=plastic&logo=github&logoColor=black&color=%230AC3A7"/>
+<input type="submit" name="commit" value="follow" img src="https://img.shields.io/badge/Follow%20me-%E2%99%A5?style=plastic&logo=github&logoColor=black&color=%230AC3A7"/>
+
 
 </p>
 
