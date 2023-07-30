@@ -43,9 +43,9 @@
 
 ---
 
-<h2 align="center">💻 My stacks</h2>
+<h2 align="center">🧰 My toolbox</h2>
 
-<h3 align="center" > <ins>🕹️ Stacks that I used to play with</ins></h3>
+<h3 align="center" > <ins>🕹️ tech that I used to play with</ins></h3>
 
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd" alt="JavaScript logo"</img></code>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3 align="center"><ins>📚 Next stacks that I would like to learn</ins></h3>
+<h3 align="center"><ins>📚 Next tech that I would like to learn</ins></h3>
 
 
 <p align="center">
@@ -77,9 +77,9 @@
 
 <p>
  👨🏻‍💻 <ins>Who am I ?</ins> --> My name is Enzo, Im 29, and Im a front-end developer from Marseille (South of France). <br/><br/>
- ❤️‍🔥 <ins>What I love in code ?</ins> --> The things that I prefer with code are animations, transitions, and everything that makes the user experience awesome.<br/><br/>
- 🔭 <ins>What I dream of for my future as a dev</ins> --> One of my dreams as a dev is to create sites that would be rewarded with awwwards !<br/><br/>
- 🌱 <ins>What I currently work on</ins> --> I currently work on learning SCSS.<br/><br/>
+ ❤️‍🔥 <ins>What do I like the most about code ?</ins> --> The things I like the most about coding are making animations, transitions, and everything that makes the user experience awesome.<br/><br/>
+ 🔭 <ins>What do I dream about for my future as a developer</ins> --> One of my dreams as a developer is to create websites that would be rewarded with awwwards !<br/><br/>
+ 🌱 <ins>What do I currently work on</ins> --> I am currently learning SCSS.<br/><br/>
  📫  <ins>Find me</ins> --> <a href="https://linktr.ee/caldoraenzo">
                               <img height="80" src="https://zupimages.net/up/23/30/mnsp.png"/>
                             </a>
