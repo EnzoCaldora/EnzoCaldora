@@ -24,7 +24,6 @@
 <br/>
 <br/>
 
-
 <img src="https://img.shields.io/badge/Follow%20me-%E2%99%A5?style=plastic&logo=github&logoColor=black&color=%230AC3A7"/>
 
 
@@ -76,6 +75,12 @@
 
 <h2 align="center"> 🤖 About me</h2>
 
+<p align="center">
+  <ins>Who am I ?</ins> --> My name is Enzo, Im 29 and Im a front-end developer from Marseille(South of France)
+  
+
+
+</p>
 ---
 
 <h2 align="center">:fire: My stats </h2>
