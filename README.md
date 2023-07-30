@@ -80,7 +80,7 @@
  ❤️‍🔥 <ins>What I love in code ?</ins> --> The things that I prefer with code are animations, transitions, and everything that makes the user experience awesome.<br/><br/>
  🔭 <ins>What I dream of for my future as a dev</ins> --> One of my dreams as a dev is to create sites that would be rewarded with awwwards !<br/><br/>
  🌱 <ins>What I currently work on</ins> --> I currently work on learning SCSS.<br/><br/>
- 🪪 <ins>Find me</ins> --> <img src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7951d66d-54d1-4625-b9c2-0b17a7d53201"/>
+ 🪪 <ins>Find me</ins> --> <img height ="80" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7951d66d-54d1-4625-b9c2-0b17a7d53201"/>
   
 
 
