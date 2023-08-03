@@ -10,16 +10,16 @@
   
 <a href="https://www.linkedin.com/in/enzo-caldora/" target="_blank">
   <img src ="https://zupimages.net/up/23/30/f7f4.png" alt"Linkedin"/>
-</a>
+</a> 
 <a href="mailto:ecaldora@gmail.com" target="_blank">
   <img src ="https://zupimages.net/up/23/30/49et.png" alt"email"/>
-</a>
+</a> 
 <a href="https://twitter.com/caldora_enzo" target="_blank">
   <img src ="https://zupimages.net/up/23/30/2ntq.png" alt"Twitter"/>
-</a>
+</a> 
 <a href="https://open.spotify.com/user/1133107738?si=9866991b68c64e8a" target="_blank">
   <img src ="https://zupimages.net/up/23/30/zxz8.png" alt"Spotify"/>
-</a>
+</a> 
 
 <br/>
 <br/>
