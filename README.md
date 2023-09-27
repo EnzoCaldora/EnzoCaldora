@@ -49,6 +49,8 @@
 <p align="center">
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/f851aa08-4332-40a4-a37c-8f87c597b9dd" alt="JavaScript logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a7904968-208f-412f-b212-f9461bf757b6" alt="React logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7107389e-8930-4354-90ad-1d6368592d24" alt="SASS logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8a6f4d11-b1ec-45c9-97da-0d12d7ae7e2a" alt="TypeScript"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870" alt="node.js logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78" alt="express.js logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131" alt="postgreSQL logo"</img></code>
@@ -56,8 +58,7 @@
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/b6941aed-0e65-4ddc-9f17-ae33a96bb80a alt="git logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/083e4a8e-09f8-430b-a4db-702e2d2c71d9 alt="Docker logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/d6226ee8-b910-4ab6-80c8-394eafc5dd7b alt="MongoDB logo"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/7107389e-8930-4354-90ad-1d6368592d24" alt="SASS logo"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/8a6f4d11-b1ec-45c9-97da-0d12d7ae7e2a" alt="TypeScript"</img></code>
+
 
 
 </p>
