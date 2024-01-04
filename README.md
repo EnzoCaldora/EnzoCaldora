@@ -85,7 +85,7 @@
 <h2 align="center"> 🤖 About me</h2>
 
 <p>
- 👨🏻‍💻 <ins>Who am I ?</ins> --> My name is Enzo, Im 29, and Im a front-end developer from Marseille (South of France). <br/><br/>
+ 👨🏻‍💻 <ins>Who am I ?</ins> --> My name is Enzo, Im 30, and Im a front-end developer from Marseille (South of France). <br/><br/>
  ❤️‍🔥 <ins>What do I like the most about code ?</ins> --> The things I like the most about coding are making animations, transitions, and everything that makes the user experience awesome.<br/><br/>
  🔭 <ins>What do I dream about for my future as a developer</ins> --> One of my dreams as a developer is to create websites that would be rewarded with awwwards !<br/><br/>
  🌱 <ins>What do I currently work on</ins> --> I am currently learning SCSS.<br/><br/>
