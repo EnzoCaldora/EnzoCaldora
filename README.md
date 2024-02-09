@@ -56,10 +56,10 @@
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/b6941aed-0e65-4ddc-9f17-ae33a96bb80a" alt="git logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/083e4a8e-09f8-430b-a4db-702e2d2c71d9" alt="Docker logo"</img></code>
 <br />
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/76bfada0-4df1-4b1f-8164-d2423b7406c6" alt="JAVA logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/cbef24e1-ab2d-4c26-b11d-37336d827870" alt="node.js logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/46bd3986-26f3-405c-abdd-4b2740ce5a78" alt="express.js logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/a4807e62-4d6e-4322-983b-e8050ae3d131" alt="postgreSQL logo"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/eac3984e-8638-4342-b497-6146cbd77c78" alt="Embbeded JavaScript logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/d6226ee8-b910-4ab6-80c8-394eafc5dd7b" alt="MongoDB logo"</img></code>
 
 
@@ -71,12 +71,16 @@
 
 
 <p align="center">
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/415d0538-73bf-4acc-b5f2-20cbac2b2192" alt="Spring logo"</img></code>
+<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/5f4fcaec-294d-48a5-a6be-665b21952564" alt="Angular logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/40fd0064-a7c5-433c-9b31-69341f1b33d8" alt="Vue.js logo"</img></code>
 <code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/4816be3b-e16a-4555-b14d-d22daff863df" alt="Tailwind CSS logo"</img></code>
 <code><img height="40" src="https://zupimages.net/up/23/30/fl4i.png" alt="Next.js"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/5f4fcaec-294d-48a5-a6be-665b21952564" alt="Angular logo"</img></code>
-<code><img height="40" src="https://github.com/EnzoCaldora/EnzoCaldora/assets/134298442/76bfada0-4df1-4b1f-8164-d2423b7406c6" alt="MongoDB logo"</img></code>
+
+
+
   
+
 
 
 
